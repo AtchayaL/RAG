@@ -1,0 +1,8 @@
+Evaluation Results: {'Precision': 0.0, 'Recall': 0.0, 'F1 Score': 0.0, 'BLEU Score': 0.06162901182197229, 'METEOR Score': 0.12404066065595845, 'GLEU Score': 0.06162901182197229}
+
+Evaluation Results: {'Precision': 0.0, 'Recall': 0.0, 'F1 Score': 0.0, 'BLEU Score': 0.06162901182197229, 'METEOR Score': 0.12404066065595845, 'GLEU Score': 0.06162901182197229, 'ROUGE-1 Score': 0.26456837100100294, 'ROUGE-L Score': 0.13582402913661615, 'Cosine Similarity': 0.6682213298914748, 'Jaccard Similarity': 0.10862748420149039}
+when k=5 and chunks_size =7500 and overlap=50
+
+Evaluation Results:
+{'Precision': 0.0, 'Recall': 0.0, 'F1 Score': 0.0, 'BLEU Score': 0.07773336903926058, 'METEOR Score': 0.2512535615390193, 'GLEU Score': 0.07773336903926058, 'ROUGE-1 Score': 0.33487507756465623, 'ROUGE-L Score': 0.18800883974222937, 'Cosine Similarity': 0.597695074895963, 'Jaccard Similarity': 0.13879709128819112}
+when k=10 and chunks_size=1000 and overlap=20
